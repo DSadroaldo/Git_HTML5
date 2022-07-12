@@ -1,0 +1,26 @@
+Qual será meu Roadmap com o curso:
+ - 
+ GIT / GITHUB
+  - comandos
+   -- git init
+     # inicializando um repositório
+	 (master) - gera nossa banch master
+ Commit  - seria as versões de nossa história
+ 
+ Stage - 
+	-- git add "Nosso arquivo" - m (msg)
+	
+	git commit -m "primeiro commit"
+	
+
+Master // main	
+algumas empresas estão mudando a nomenclatura de master para main
+p/renomearmos nossa branch temos o comando
+
+ git remote add origin https...
+				nome dado ao repositorio
+				
+##Criando uma senha SSh 
+para segurar importação e extração entre maquina local e 
+github
+Processo de geração/inclusão de chave SSH para conexão github pasta local
